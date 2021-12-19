@@ -46,7 +46,6 @@ Provide training code and detail guidline for specific pretrained-model and trai
 ### Predict
 
 Produce the output of two best models.
-model state dict: 12 fine-tunning 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
