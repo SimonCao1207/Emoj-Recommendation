@@ -1,0 +1,13 @@
+{
+    "BERT_MODEL": "bert-base-cased",
+    "PRE_TRAINED_MODEL": "assets/model_state_dict.bin",
+    "CLASS_NAMES": [
+        "anger",
+        "fear",
+        "joy",
+        "love",
+        "sadness",
+        "surprise"
+    ],
+    "MAX_SEQUENCE_LEN": 256
+}
