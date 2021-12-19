@@ -16,8 +16,8 @@
       </ul>
     </li>
     <li><a href="#model-state-dict">Model state dict</a></li>
-    <li><a href="#Web-view">Acknowledgments</a></li>
-  </ol>
+    <!-- <li><a href="#Web-view">Acknowledgments</a></li>
+  </ol> -->
 </details>
 
 <!-- ABOUT THE PROJECT -->
