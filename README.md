@@ -9,14 +9,14 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#description">Description</a>
       <ul>
         <li><a href="#training">Training</a></li>
         <li><a href="#predict">Predict</a></li>
       </ul>
     </li>
     <li><a href="#model-state-dict">Model state dict</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Web-view">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -46,15 +46,19 @@ Provide training code and detail guidline for specific pretrained-model and trai
 ### Predict
 
 Produce the output of two best models.
-model state dict: 12 fine-tunning model state dicts of pretrained BERT and its variances
+model state dict: 12 fine-tunning 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Model state dict -->
 ## Model state dict
 
-Provided links to 12 fine-tunning model state dicts of pretrained BERT and its variances
+- Provided links to 12 fine-tunning model state dicts of pretrained BERT and its variances
+- The following table is quantitative/qualitative results for 12 mentioned models
+  
+![alt text](https://github.com/SimonCao1207/Emoji-Recommendation/blob/main/img/table.PNG?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
