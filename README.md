@@ -16,8 +16,8 @@
       </ul>
     </li>
     <li><a href="#model-state-dict">Model state dict</a></li>
-    <!-- <li><a href="#Web-view">Acknowledgments</a></li>
-  </ol> -->
+    <li><a href="#Web-view">Web view</a></li>
+  </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
@@ -62,3 +62,16 @@ model state dict: 12 fine-tunning
 
 
 
+<!-- WEB VIEW -->
+## Web view
+
+![alt text](https://github.com/SimonCao1207/Emoji-Recommendation/blob/main/img/webview.PNG?raw=true)
+
+This web is built with:
+- ReactJS
+- socket.io
+- ExpressJS
+- FastAPI
+  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
