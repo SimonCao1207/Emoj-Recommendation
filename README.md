@@ -58,6 +58,7 @@ Produce the output of two best models.
 
 ### Two best model
 Best quanitative result: CustomBERT + HG
+
 Best qualitative result: CustomBERT + Kaggle + Generator
 
 - Provided links to 12 fine-tunning model state dicts of pretrained BERT and its variances
