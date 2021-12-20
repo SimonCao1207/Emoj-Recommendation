@@ -1,0 +1,4 @@
+https://huggingface.co/datasets/emotion?fbclid=IwAR27F2dJU2g7Ac23lKYvS-NyePCfBW1hfzv1vFR8b_ng4ZB9QPYZlaM1Dws
+https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp?fbclid=IwAR063T6fcYbCxc5B-R_JNQxG-oRifwgS6pDQCnadOOfNHycuzsXNn6Tahz0
+
+
