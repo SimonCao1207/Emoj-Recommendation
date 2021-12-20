@@ -13,6 +13,7 @@
       <ul>
         <li><a href="#training">Training</a></li>
         <li><a href="#predict">Predict</a></li>
+        <li><a href="#dataset">Dataset</a></li>
       </ul>
     </li>
     <li><a href="#model-state-dict">Model state dict</a></li>
@@ -41,7 +42,10 @@ Visit our paper [here](https://drive.google.com/file/d/1KwyAgc_1gwo7T38B4x2BNCV9
 
 ### Training
 
-Provide training code and detail guidline for specific pretrained-model and training method.
+Provide training code and detail guidline for specific pretrained-model and training method. (train on Kaggle)
+
+### Dataset
+Folder includes two txt files with link to Kaggle and Hugging Face Dataset used to train models.
 
 ### Predict
 
@@ -51,6 +55,10 @@ Produce the output of two best models.
 
 <!-- Model state dict -->
 ## Model state dict
+
+### Two best model
+Best quanitative result: CustomBERT + HG
+Best qualitative result: CustomBERT + Kaggle + Generator
 
 - Provided links to 12 fine-tunning model state dicts of pretrained BERT and its variances
 - The following table is quantitative/qualitative results for 12 mentioned models
